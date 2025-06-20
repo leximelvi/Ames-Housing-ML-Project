@@ -1,3 +1,3 @@
-# Ames-Housing-ML-Porject
+# Ames-Housing-ML-Project
 Machine Learning Analyzing Data and Predicting Sale Prices
 https://www.icloud.com/keynote/027gaCeY0Jtpt91yx4DmPsrYQ#ML_Project
